@@ -2,7 +2,7 @@
 
 ## Índice
 
-- [Introducción](index.md)
+- [Introducción](introduccion.md)
 - [Instalación](instalacion.md)
 - [Uso](uso.md)
 - [Arquitectura](arquitectura.md)
