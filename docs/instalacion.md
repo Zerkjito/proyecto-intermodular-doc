@@ -10,7 +10,7 @@
 
 1. Clonar el repositorio
 2. Configurar las variables de entorno de `.env`
-3. Leventar Docker con (con PHP + Apache) y ejecutar migrations + seeders
+3. Leventar Docker (con PHP + Apache) y ejecutar migrations + seeders
 
 ```bash
 docker compose up -d
