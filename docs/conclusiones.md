@@ -14,5 +14,5 @@
 ## Posibles mejoras
 
 - Implementación de autenticación avanzada, alineada con la convención OWASP TOP 10
-- Escalabilidad horizontal de gestión de los datos cacheados con Redis
+- Escalabilidad horizontal respecto a la gestión de los datos cacheados usando Redis
 - Considerar usar un VPS
