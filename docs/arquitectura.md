@@ -1,6 +1,8 @@
 # Arquitectura
 
-## Diagrama general (pendiente de implementar)
+## Diagrama general (pendiente de implementar foto original)
+
+![Arquitectura del proyecto](img/arquitectura.png)
 
 ## Explicación técnica
 
