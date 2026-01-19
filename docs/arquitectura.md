@@ -15,7 +15,7 @@ Basada principlamente en los fundamentos MVC.
 </tr>
 <tr>
    <td>Frontend</td>
-   <td>Tailwind CSS, React</td>
+   <td>HTML, Tailwind CSS, JS, React</td>
 </tr>
 <tr>
    <td>Backend</td>
